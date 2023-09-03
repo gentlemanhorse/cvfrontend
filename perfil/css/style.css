@@ -1,0 +1,28 @@
+#st0 {
+    font-family:'Times New Roman', Times, serif;
+    color: indianred;
+    background-color: wheat;  
+    text-align: center; 
+    text-decoration-line: underline;
+}
+
+#hab {
+    text-decoration: line-through;
+}
+
+body {
+    background-color: beige;
+}
+
+a:hover {
+    color:rgb(208, 73, 210);
+}
+
+.c1 {
+    font-family: sans-serif;
+    font-style: oblique;
+
+    background-color: rgb(206, 181, 150);
+}
+
+
